@@ -85,6 +85,11 @@ These commands add an age column to the table and calculate the age of each empl
 
 #### Exploratory Data Analysis
 
+You can export the result of each query into .CSV format to prepare the dataset for further visualization in Power BI
+
+![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/bb5ddc2b-dc51-4f5a-9ee9-ef9851f4647d)
+
+
 ```sql
 SELECT gender, COUNT(gender) AS TotalCount
 FROM hr
