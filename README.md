@@ -18,7 +18,8 @@ This SQL command creates a new database named HRProject.
 Use Table import Wizard(R-click on schema name) to load the data into mysql workbench:
 Kindly refer to this link: https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-table.html
 
-![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/e30b7c6f-bf7a-4e38-ac33-f226601e5490)
+![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/649c9a56-e6be-4060-b6b9-0bc85ce9fe5d)
+
 
 ---
 
@@ -87,7 +88,7 @@ These commands add an age column to the table and calculate the age of each empl
 
 You can export the result of each query into .CSV format to prepare the dataset for further visualization in Power BI
 
-![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/bb5ddc2b-dc51-4f5a-9ee9-ef9851f4647d)
+![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/43fc825b-9335-445d-9c3e-30e887de5e59)
 
 
 ```sql
