@@ -5,7 +5,7 @@
 #### Description
 This README provides an overview and detailed description of the HR Project database schema and the SQL queries used for data cleaning, exploratory data analysis, and employee analysis. 
 
-##### I used MYSQL Database to perform Data cleaning and Exploratory Data Analysis. You can use Table Import Wizard to load the data into the database schema from "Human Resources Excel Workbook" added to this repository. 
+##### I have used MYSQL Database to perform Data cleaning and Exploratory Data Analysis. You can use Table Import Wizard to load the data into the database schema from "Human Resources Excel Workbook" added to this repository. 
 
 ---
 
