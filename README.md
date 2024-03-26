@@ -1,8 +1,11 @@
 ### HR Project 
+
 ---
 
 #### Description
 This README provides an overview and detailed description of the HR Project database schema and the SQL queries used for data cleaning, exploratory data analysis, and employee analysis. 
+
+##### I used MYSQL Database to perform Data cleaning and Exploratory Data Analysis. You can use Table Import Wizard to load the data into the database schema from "Human Resources Excel Workbook" added to this repository. 
 
 ---
 
@@ -12,6 +15,10 @@ This README provides an overview and detailed description of the HR Project data
 CREATE DATABASE HRProject;
 ```
 This SQL command creates a new database named HRProject.
+Use Table import Wizard(R-click on schema name) to load the data into mysql workbench:
+Kindly refer to this link: https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-table.html
+
+![image](https://github.com/RhugvedSatardekar/SQL-POWER-BI-HR-COMPANY-ANALYSIS/assets/163725285/e30b7c6f-bf7a-4e38-ac33-f226601e5490)
 
 ---
 
